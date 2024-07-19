@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharik22&label=Profile%20views&color=0e75b6&style=flat" alt="niharik22" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/niharik22](https://github.com/niharik22)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/niharik22)
 
 - 💬 Ask me about **Object Oriented Programming, Java, MySQL**
 
