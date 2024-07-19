@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **niharikofficial2@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/niharik22/My_Certifications/blob/main/Niharik_Kalpam_Resume_JavaDeveloper.pdf](https://github.com/niharik22/My_Certifications/blob/main/Niharik_Kalpam_Resume_JavaDeveloper.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/niharik22/My_Certifications/blob/main/NiharikKalpam_Resume.pdf)
 
 - ⚡ Fun fact **I am Amiable**
 
